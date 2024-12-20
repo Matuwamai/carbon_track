@@ -20,7 +20,7 @@ const AdminNavbar = () => {
         <button className="flex items-center space-x-2 focus:outline-none">
           <span>Admin</span>
           <img
-            src="https://via.placeholder.com/40"
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD29P9Es6wEfJxT_lxPRw8ceTMQ-HwfWNanA&s"
             alt="Profile"
             className="w-10 h-10 rounded-full"
           />
